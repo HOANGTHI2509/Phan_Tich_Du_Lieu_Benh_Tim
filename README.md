@@ -34,7 +34,9 @@ Plaintext
 ├── main_analysis.py                # [Script] Code Python phân tích chính
 ├── HeartDisease_Final_Analysis.csv # [Output] Kết quả sau khi phân cụm
 └── README.md                       # Tài liệu hướng dẫn này
-🚀 Quy trình xử lý chi tiết
+
+
+##🚀 Quy trình xử lý chi tiết
 Chương trình thực hiện tuần tự 5 bước sau:
 
 1. Nguồn dữ liệu (Data Loading)
@@ -88,7 +90,7 @@ PCA Visualization: Giảm chiều dữ liệu xuống 2D để vẽ biểu đồ
 
 Silhouette Analysis: Biểu đồ điểm số để đánh giá độ tách biệt của các cụm.
 
-📊 Kết quả & Đánh giá
+##📊 Kết quả & Đánh giá
 Sau khi chạy chương trình, bạn sẽ nhận được:
 
 1. Báo cáo trên màn hình (Console Output)
